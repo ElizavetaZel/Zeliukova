@@ -1,0 +1,2 @@
+Discretisation: 39.81851253419853 Hz
+Quantize step:0.012890625 V
